@@ -1,0 +1,55 @@
+body{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(206, 206, 206);
+}
+
+.conteiner{
+    width: 250px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    border-radius: 5%;
+    box-shadow: 0 4px 10px;
+    
+}
+.conteiner img{
+    width: 230px;
+    height: 230px;
+    position: absolute;
+    border-radius: 5%;
+    left: 4%;
+    top: 2%;
+}
+
+.parrafo-1{
+   position: absolute;
+   top: 65%;
+   padding: 0 25px;
+   font-size: 18px;
+   text-align: center;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif 
+   
+
+}
+
+.texto-1{
+    font-weight: bold;
+    
+}
+
+.parrafo-2{
+    position: absolute;
+        top: 78%;
+        padding: 0 25px;
+        text-align: center;
+        font-family:Arial, Helvetica, sans-serif;
+        
+}
+.texto-2{
+    font-size: 12px;
+    opacity: 0.60;
+    
+}
+
+    
